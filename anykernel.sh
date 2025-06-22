@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Vantom Kernel for Redmi Note 12 Pro 4G
+kernel.string=Nightmare Kernel for Redmi Note 12 Pro 4G
 do.devicecheck=1
 do.modules=0
 do.systemless=1
